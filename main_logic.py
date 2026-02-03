@@ -8,7 +8,6 @@ from datetime import datetime
 import csv
 
 
-# Setup logging
 log_filename = f'disable_accounts_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
 logging.basicConfig(
     level=logging.INFO,
