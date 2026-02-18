@@ -47,3 +47,7 @@ CLIENT_SECRET=your-client-secret
 MAXIMUM_DAYS=30
 POLICY_START=2024-01-01T00:00:00
 DRY_RUN=true
+
+👤 Author
+Charmaine Olupitan
+Technical Engineer and Developer .
